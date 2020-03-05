@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "ldap.url",
+  "type": "java.lang.String",
+  "description": "LDAP server is running on this server"
+}]}
